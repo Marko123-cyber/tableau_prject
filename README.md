@@ -1,4 +1,4 @@
-** Sales & Customer Performance Dashboard
+* Sales & Customer Performance Dashboard
 
 An interactive Tableau dashboard providing sales and customer insights for 2023, with year-over-year comparisons to 2022.
 
