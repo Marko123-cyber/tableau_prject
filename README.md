@@ -1,6 +1,6 @@
 # Sales & Customer Performance Dashboard
 
-An interactive Tableau dashboard providing sales and customer insights for 2023, with year-over-year comparisons to 2022.
+An interactive Tableau dashboard providing sales and customer insights for current year, with year-over-year comparisons to previous years.
 
 Built to give sales and customer success teams a clear view of business performance:
 - **Sales Dashboard** — Monitor revenue, profit KPIs, and identify which subcategories drive vs. drain profitability.
