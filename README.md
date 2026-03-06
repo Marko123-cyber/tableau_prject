@@ -17,6 +17,10 @@ Built to give sales and customer success teams a clear view of business performa
 
 > *Preview may appear compressed — click the link below for the full interactive dashboard.*
 
+---
+
+> *This dashboard was inspired by the Tableau Master Course by [Data with Baraa](https://www.datawithbaraa.com).*
 
 
 🔗 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/marko.pavlovic/viz/final_tableau_project_17708226736110/SalesDashboard)**
+
