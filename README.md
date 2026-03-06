@@ -11,8 +11,8 @@ Built to give sales and customer success teams a clear view of business performa
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="CustomerDashboard.png" height="400"/>
-  <img src="SalesDashboard.png" height="400"/>
+  <img src="CustomerDashboard.png" height="300"/>
+  <img src="SalesDashboard.png" height="300"/>
 </p>
 
 > *Preview may appear compressed — click the link below for the full interactive dashboard.*
