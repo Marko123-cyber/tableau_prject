@@ -1,6 +1,6 @@
 # Sales & Customer Performance Dashboard
 
-An interactive Tableau dashboard providing sales and customer insights for current year, with year-over-year comparisons to previous years.
+An interactive Tableau dashboard providing sales and customer insights for current year, with year-over-year comparisons to previous year.
 
 Built to give sales and customer success teams a clear view of business performance:
 - **Sales Dashboard** — Monitor revenue, profit KPIs, and identify which subcategories drive vs. drain profitability.
